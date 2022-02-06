@@ -1,2 +1,21 @@
 # BirdNET-Pi-assets
-<img src="" />
+<img src="https://raw.githubusercontent.com/mcguirepr89/BirdNET-Pi-assets/main/Screenshot%20from%202022-02-03%2011-38-54.png" />
+<img src="https://raw.githubusercontent.com/mcguirepr89/BirdNET-Pi-assets/main/Screenshot%20from%202022-02-03%2011-38-59.png" />
+<img src="https://raw.githubusercontent.com/mcguirepr89/BirdNET-Pi-assets/main/Screenshot%20from%202022-02-03%2011-39-02.png" />
+<img src="https://raw.githubusercontent.com/mcguirepr89/BirdNET-Pi-assets/main/Screenshot%20from%202022-02-03%2011-39-06.png" />
+<img src="https://raw.githubusercontent.com/mcguirepr89/BirdNET-Pi-assets/main/Screenshot%20from%202022-02-03%2011-39-16.png" />
+<img src="https://raw.githubusercontent.com/mcguirepr89/BirdNET-Pi-assets/main/Screenshot%20from%202022-02-03%2011-39-22.png" />
+<img src="https://raw.githubusercontent.com/mcguirepr89/BirdNET-Pi-assets/main/Screenshot%20from%202022-02-03%2011-39-40.png" />
+<img src="https://raw.githubusercontent.com/mcguirepr89/BirdNET-Pi-assets/main/Screenshot%20from%202022-02-03%2011-39-43.png" />
+<img src="https://raw.githubusercontent.com/mcguirepr89/BirdNET-Pi-assets/main/Screenshot%20from%202022-02-03%2011-39-53.png" />
+<img src="https://raw.githubusercontent.com/mcguirepr89/BirdNET-Pi-assets/main/Screenshot%20from%202022-02-03%2011-40-09.png" />
+<img src="https://raw.githubusercontent.com/mcguirepr89/BirdNET-Pi-assets/main/Screenshot%20from%202022-02-03%2011-45-42.png" />
+<img src="https://raw.githubusercontent.com/mcguirepr89/BirdNET-Pi-assets/main/Screenshot%20from%202022-02-03%2011-47-17.png" />
+<img src="https://raw.githubusercontent.com/mcguirepr89/BirdNET-Pi-assets/main/Screenshot%20from%202022-02-03%2011-48-00.png" />
+<img src="https://raw.githubusercontent.com/mcguirepr89/BirdNET-Pi-assets/main/Screenshot%20from%202022-02-03%2011-48-04.png" />
+<img src="https://raw.githubusercontent.com/mcguirepr89/BirdNET-Pi-assets/main/Screenshot%20from%202022-02-03%2011-48-08.png" />
+<img src="https://raw.githubusercontent.com/mcguirepr89/BirdNET-Pi-assets/main/Screenshot%20from%202022-02-03%2011-48-41.png" />
+<img src="https://raw.githubusercontent.com/mcguirepr89/BirdNET-Pi-assets/main/Screenshot%20from%202022-02-03%2012-01-05.png" />
+<img src="https://raw.githubusercontent.com/mcguirepr89/BirdNET-Pi-assets/main/Screenshot%20from%202022-02-03%2012-01-09.png" />
+<img src="https://raw.githubusercontent.com/mcguirepr89/BirdNET-Pi-assets/main/Screenshot%20from%202022-02-03%2012-01-12.png" />
+<img src="https://raw.githubusercontent.com/mcguirepr89/BirdNET-Pi-assets/main/Screenshot%20from%202022-02-03%2012-01-47.png" />
