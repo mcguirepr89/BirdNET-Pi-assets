@@ -19,4 +19,12 @@
 <img src="https://raw.githubusercontent.com/mcguirepr89/BirdNET-Pi-assets/main/18.png" />
 <img src="https://raw.githubusercontent.com/mcguirepr89/BirdNET-Pi-assets/main/19.png" />
 <img src="https://raw.githubusercontent.com/mcguirepr89/BirdNET-Pi-assets/main/20.png" />
-
+<img src="https://raw.githubusercontent.com/mcguirepr89/BirdNET-Pi-assets/main/21.png" />
+<img src="https://raw.githubusercontent.com/mcguirepr89/BirdNET-Pi-assets/main/22.png" />
+<img src="https://raw.githubusercontent.com/mcguirepr89/BirdNET-Pi-assets/main/23.png" />
+<img src="https://raw.githubusercontent.com/mcguirepr89/BirdNET-Pi-assets/main/24.gif" />
+<img src="https://raw.githubusercontent.com/mcguirepr89/BirdNET-Pi-assets/main/25.png" />
+<img src="https://raw.githubusercontent.com/mcguirepr89/BirdNET-Pi-assets/main/26.png" />
+<img src="https://raw.githubusercontent.com/mcguirepr89/BirdNET-Pi-assets/main/27.png" />
+<img src="https://raw.githubusercontent.com/mcguirepr89/BirdNET-Pi-assets/main/28.png" />
+<img src="https://raw.githubusercontent.com/mcguirepr89/BirdNET-Pi-assets/main/29.png" />
